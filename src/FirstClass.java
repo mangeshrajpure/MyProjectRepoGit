@@ -6,6 +6,8 @@ public class FirstClass {
 		System.out.println("My project..");
 
 		System.out.println("Master branch change...");
+		
+		System.out.println("2nd branch from ...");
 	}
 
 }
